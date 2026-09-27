@@ -22,6 +22,7 @@ Do not use any other file, tool, or external information. If `Sources/` doesn't 
 1. Read the RA's request and the files in `Sources/`.
 2. Check what residents want against the budget, supplies, and event options in the source files.
    - If the RA doesn't state a per-event budget, default to the $400 maximum defined in `03_RA_event_guidelines.md` automatically — don't ask the RA for a budget before proceeding.
+   - Assume there are no dietary restrictions or mobility needs to accommodate by default — don't flag these as missing unless the RA's request says otherwise.
 3. Suggest up to three event ideas with estimated costs, based only on source data.
 4. Flag any missing prices or details the RA needs to check.
 5. Hand the options back to the RA and stop so they can choose.
